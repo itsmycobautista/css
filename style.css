@@ -1,0 +1,156 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+hr {
+  border-bottom: none;
+  border: dotted #EAF6F6 6px;
+  margin: 100px auto;
+  width: 4%;
+}
+
+
+h1 {
+  color: #66BFBF;
+  font-size: 5.625rem;
+  font-family: 'Sacramento', cursive;
+  margin: 50px auto 0 auto;
+}
+h2 {
+  color: #66BFBF;
+  font-size: 2.5rem;
+  font-family: 'Montserrat', sans-serif;
+  padding-bottom: 10px;
+}
+h3 {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  
+}
+
+p {
+  line-height: 2;
+}
+
+a {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #EAF6F6;
+}
+
+.top-container {
+  background-color: #eaf6f6;
+  position: relative;
+  padding-top: 100px;
+  line-height: 1;
+}
+
+.middle-container {
+  color: #40514E;
+  text-align: center;
+  margin: 100px 0;
+}
+
+.bottom-container {
+color: #11999E;
+background-color: #66BFBF;
+padding: 50px 0 20px;
+}
+
+.boring {
+  color: #eaf6f6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.intro {
+  width: 30%;
+  margin: auto;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 40px
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+}
+
+.skill-row {
+  margin: 50px auto 50px auto;
+  width: 50%;
+  text-align: left;
+  padding: 30px;
+  overflow: auto;
+  
+}
+
+.programming-img {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+  
+}
+.web-img {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.btn {
+	box-shadow: 0px 0px 0px 0px #3dc21b;
+	background-color:#11cdd4;
+	border-radius:8px;
+	border:1px solid #18ab29;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+  font-family: 'Montserrat', sans-serif;
+	font-size:17px;
+	padding:16px 31px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #2f6627;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+.btn:hover {
+	background-color:#11999e;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
+
+.contact-message {
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+.profile {
+  margin: 100px auto;
+}
+.love {
+  width: 40%;
+  margin: auto;
+  color: black;
+  font-size: 12px;
+  border: 1px solid;
+  padding: 10px;
+  box-shadow: 5px 10px;
+  color: #11999e;
+}
